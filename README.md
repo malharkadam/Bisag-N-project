@@ -154,7 +154,9 @@ In this notebook we will be doing some sentiment analysis in python using two di
 pip install nltk
 pip install transformers
 ```
-### Dataset
+### Download theDataset
+Reviews.csv for sentiment analysis
+
 ```bash
 https://drive.google.com/file/d/1-lyERRX2lqHqlNznOlBTNZhpSW4Qm3oC/view?usp=sharing
 ```
